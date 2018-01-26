@@ -1,0 +1,4 @@
+node_modules/
+tns/node_modules/
+.vs/
+.idea/
